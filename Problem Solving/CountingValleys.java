@@ -24,7 +24,7 @@ public class CountingValleys{
             if(a[i]=='D') sl--; 
             else 
             {
-                if(sl+1==0) c++; // counting as a valley whenever the selavel goes to zero from neagtive 
+                if(sl+1==0) c++; // counting as a valley whenever the sea lavel goes to zero from neagtive 
                 sl++;
             }
         }
