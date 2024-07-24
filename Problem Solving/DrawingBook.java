@@ -51,6 +51,8 @@ public class DrawingBook
                 }
             }
         }
+
+        x.close();
         System.out.println(f);
     }
     
