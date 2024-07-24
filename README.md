@@ -1,2 +1,2 @@
 # HackerRank-Solutions
-All the HackerRank Solutions of various languages i have done so far will be added here. Feel free to check and learn
+All the HackerRank Solutions i have done so far in java will be added here. Feel free to check and learn. Tried my best to make the codes understandable.
