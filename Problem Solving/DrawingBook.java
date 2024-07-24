@@ -1,6 +1,7 @@
 /**
- * Problem Statement - https://www.hackerrank.com/challenges/drawing-book/
  * @author - HemanthJyothula
+ * 
+ * Problem Statement -- Drawing Book [https://www.hackerrank.com/challenges/drawing-book/]
  */
 import java.util.*;
 public class DrawingBook 
