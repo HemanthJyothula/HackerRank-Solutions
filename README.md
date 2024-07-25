@@ -4,4 +4,4 @@ All the HackerRank problems i solved in java so far will be added here. Feel fre
 Will be adding program solutions daily.
 
 ## Sections
-Problem Solving
+* [Problem Solving](https://github.com/HemanthJyothula/HackerRank-Solutions/tree/main/Problem%20Solving)
